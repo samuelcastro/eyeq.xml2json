@@ -1,0 +1,24 @@
+{
+  "name": "eyeq.xml2json",
+  "version": "1.0.0",
+  "description": "XML to JSON tool converter help you to convert XML to JSON.",
+  "main": "index.js",
+  "bin": {
+    "eyeq.xml2json": "./index.js"
+  },
+  "preferGlobal": "true",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Castro",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "eyes": "^0.1.8",
+    "filendir": "0.0.1",
+    "mkdirp": "^0.5.1",
+    "node-dir": "^0.1.8",
+    "path": "^0.11.14",
+    "xml2js": "^0.4.9"
+  }
+}
