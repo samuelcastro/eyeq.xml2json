@@ -13,7 +13,7 @@ sudo npm install git+https://git@github.com/samuelcastro/eyeq.xml2json.git -g
 
 ```
 eyeq.xml2json -o /your/xml/folder -d /your/destination/json/path
-``
+```
 
 The module will convert all _xml files_ inside your xml folder creating the same directory structure.
 
@@ -27,7 +27,7 @@ The module will convert all _xml files_ inside your xml folder creating the same
 /data/xml/folder4/my-file-4.xml
 ```
 
-#### When you run: `eyeq.xml2json -o /data/xml -d /data/json` ####
+When you run: `eyeq.xml2json -o /data/xml -d /data/json`
 
 Will be create this structure:
 
