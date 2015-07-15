@@ -16,6 +16,7 @@ eyeq.xml2json -o /your/xml/folder -d /your/destination/json/path
 ```
 
 The module will convert all _xml files_ inside your xml folder creating the same directory structure.
+If the destination folder do not exist yet, wil be created.
 
 ### For Example: ###
 
