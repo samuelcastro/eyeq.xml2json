@@ -29,7 +29,7 @@ The module will convert all _xml files_ inside your xml folder creating the same
 
 When you run: `eyeq.xml2json -o /data/xml -d /data/json`
 
-Will be create this structure:
+Will create this structure:
 
 ```
 /data/json
